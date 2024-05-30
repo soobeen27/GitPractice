@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         print("it's a first test")
     }
     func testFunc() {
-        print("is there any conflict from merge?")
+        print("let's make a conflict")
     }
 
 
