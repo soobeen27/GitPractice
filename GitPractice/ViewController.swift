@@ -12,12 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("it's a first test")
-    }
-    func testFunc() {
-        print("let's make a conflict")
-    }
 
-
+    }
 }
 
