@@ -16,6 +16,10 @@ class ViewController: UIViewController {
     func testFunc() {
         print("let's make a conflict")
     }
+    
+    func sample2() {
+        print("something")
+    }
 
 
 }
