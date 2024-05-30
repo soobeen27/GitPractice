@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func sample1() {
         print("sample1")
     }
+    
+    func sample2() {
+        print("sample2")
+    }
 
 }
 
