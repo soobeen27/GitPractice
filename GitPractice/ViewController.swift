@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     func testFunc() {
-        print("is there any conflict from merge?")
+        print("let's make a conflict")
     }
 
 
