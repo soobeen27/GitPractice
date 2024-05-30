@@ -12,15 +12,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+
     }
-    func testFunc() {
-        print("let's make a conflict")
+    func sample1() {
+        print("sample1")
     }
     
     func sample2() {
         print("something")
     }
-
 
 }
 
